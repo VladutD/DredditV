@@ -1,0 +1,112 @@
+
+
+.topbar-container {
+    height: 50px;
+    width: 100%;
+    background-color: #eb5e28;
+    display: flex;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 999;
+}
+.logo {
+    font-size: 24px;
+    margin-left: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+}
+.searchbar {
+    width: 100%;
+    height: 30px;
+    background-color: #fff;
+    border-radius: 2rem;
+    display: flex;
+    align-items: center;
+}
+.seacrh-icon {
+   margin-left: 10px;
+}
+.search-input {
+    border: none;
+    width: 70%;
+
+}
+.search-input:focus {
+    outline: none;
+}
+.topbar-left {
+   flex: 3; 
+  
+}
+.topbar-center {
+    flex: 5; 
+
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+}
+nav a {
+    text-decoration: none;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding: .25rem;
+    color: #fff;
+}
+
+nav a:hover {
+    color: #000;
+}
+.topbar-right {
+    flex: 4;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: #fff;
+}
+.topbar-link {
+    margin-right: 10px;
+    font-size: 14px;
+    cursor: pointer;
+}
+.topbar-icons {
+    display: flex;
+}
+.topbar-icon {
+    margin-right: 15px;
+    cursor: pointer;
+    position: relative;
+}
+.icon-bar {
+    width: 15px;
+    height: 15px;
+    background-color: black;
+    border-radius: 50%;
+    color: #fff;
+    position: absolute;
+    top: -5px;
+    right: -5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 10px;
+}
+.topbar-img {
+    width: 32px;
+    height: 32px; 
+    border-radius: 50%;
+    object-fit: cover;
+}
+.navbar a.active {
+    background-color: #f4a261;
+}
