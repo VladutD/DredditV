@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/DredditV/static/css/main.110a4e13.css",
+    "main.js": "/DredditV/static/js/main.27747009.js",
+    "static/media/adds1.jpeg": "/DredditV/static/media/adds1.8b6db93f346b3ccd48ab.jpeg",
+    "static/media/person5.jpeg": "/DredditV/static/media/person5.478fa1fe982dbc5b8e06.jpeg",
+    "static/media/person2.jpeg": "/DredditV/static/media/person2.c3a133471b5e5308145f.jpeg",
+    "static/media/person3.jpeg": "/DredditV/static/media/person3.ae0329c981a27cb10d46.jpeg",
+    "static/media/person7.jpeg": "/DredditV/static/media/person7.a3decd58f4191e8cd104.jpeg",
+    "static/media/person6.jpeg": "/DredditV/static/media/person6.e0ced09c70e302098801.jpeg",
+    "index.html": "/DredditV/index.html",
+    "main.110a4e13.css.map": "/DredditV/static/css/main.110a4e13.css.map",
+    "main.27747009.js.map": "/DredditV/static/js/main.27747009.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.110a4e13.css",
+    "static/js/main.27747009.js"
+  ]
+}
